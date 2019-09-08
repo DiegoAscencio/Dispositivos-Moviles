@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">My Application</string>
+<string name="activity_main_name">Nombre</string>
+<string name="activity_main_name_hint">Ingresa tu nombre</string>
+<string name="activity_main_phone">Teléfono</string>
+<string name="activity_main_phone_hint">Ingresa tu teléfono</string>
+<string name="activity_main_save">Guardar</string>
+    <string name="activity_main_error_noname">Por favor, escriba un nombre</string>
+    <string name="activity_main_error_nophone">Por favor, escriba un telefono</string>
+</resources>
