@@ -10,6 +10,8 @@ class ActivityLogin : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
         supportActionBar?.hide()
+
+
     }
 
     fun mRegister(view: View) {
